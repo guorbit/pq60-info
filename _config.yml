@@ -4,5 +4,8 @@ theme: just-the-docs
 
 url: https://pq60.info
 
+logo: "/assets/images/pq60_stand.svg"
+favicon_ico: "/assets/images/favicon.ico"
+
 aux_links:
-  GU Orbit: https://www.guorbit.com/
+  GU Orbit Main Website: https://www.guorbit.com/
