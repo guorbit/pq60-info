@@ -3,7 +3,8 @@ layout: default
 title: Overview
 permalink: /spec/overview
 nav_order: 1
-has_children: true
+parent: Specifications
+has_children: false
 ---
 
 # Standard Overview
@@ -16,7 +17,7 @@ The signals on the connector were selected to provide the basic requirements for
 
 - 2 protected power buses (3.3V and BatteryV) @ 0.8A each (derated)
 - 6 switched power lines (3 x 3.3V and 3 x BatteryV) @ 0.4A each (derated)
-- 2 dedicated data buses (I2C and SPI)
+- 2 dedicated data buses (I²C and SPI)
 - 12 GPIO lines
-- 1 SS or GPIO line
+- 1 <span style="text-decoration: overline;">SS</span> or GPIO line
 - Reset Line

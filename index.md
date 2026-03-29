@@ -9,7 +9,7 @@ An electrical standard for PocketQubes
 {: .fs-6 .fw-300 }
 
 {: .highlight }
-This website is brought to you by GU Orbit, University of Glasgow's student CubeSat society! We are implementers of this standard.
+> This website is brought to you by GU Orbit, University of Glasgow's student CubeSat society! We are implementers of this standard.
 
 ## About
 

@@ -10,4 +10,20 @@ favicon_ico: "/assets/images/favicon.ico"
 aux_links:
   GU Orbit Main Website: https://www.guorbit.com/
 
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 footer_content: "Copyright &copy; 2014-2026 The PQ60 Working Group."
