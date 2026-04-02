@@ -29,7 +29,7 @@ This section provides information regarding the connector series used. The conne
 
 <table><thead>
   <tr>
-    <th colspan="2"><b>Table 3.1</b>: Connector Details</th>
+    <th colspan="2">Table 3.1: Connector Details</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -69,7 +69,7 @@ This section provides information regarding the connector series used. The conne
 
 <table><thead>
   <tr>
-    <th colspan="3"><b>Table 3.2</b>: Connector Heights[^1]</th>
+    <th colspan="3" markdown="span">Table 3.2: Connector Heights[^1]</th>
   </tr></thead>
 <tbody>
   <tr>
