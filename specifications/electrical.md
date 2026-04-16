@@ -15,7 +15,6 @@ The following section describes the pin-out, pin descriptions and electrical det
 
 This section provides the pin-out and electrical details of the connector used. Each signal on the connector is discussed. The relevant information can be found in Figure 4.1 and Table 4.1.
 
-|              |     |     |           |
 |-------------:|-----|-----|:----------|
 | +3.3_Sw1     | P1  | P60 | 3V3 bus   |
 | +3.3_Sw1     | P2  | P59 | 3V3 bus   |
@@ -47,5 +46,6 @@ This section provides the pin-out and electrical details of the connector used. 
 | GND          | P28 | P33 | SCK       |
 | SCL          | P29 | P32 | MISO      |
 | SDA          | P30 | P31 | MOSI      |
-|==============|=====|=====|===========|
-| **Figure 4.1**: Pin-out for the connector|
+
+<center><b>Figure 4.1</b>: Pin-out for the connector</center>
+
