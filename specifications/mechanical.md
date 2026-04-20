@@ -21,7 +21,7 @@ The dimensions of the board are stated as maximum as boards may require cut-outs
 |:--:| 
 | **Figure 3.1**: Technical drawing of the board |
 
-The connector on the top of the board is the HEADER version of the standard connector with the connector on the bottom of the board the RECEPTACLE version of the standard connector. This was done to allow the topside of the board to determine the height of the full design.
+The connector on the top of the board is the *HEADER* version of the standard connector with the connector on the bottom of the board the *RECEPTACLE* version of the standard connector. This was done to allow the topside of the board to determine the height of the full design.
 
 ## Connector Information
 
@@ -73,8 +73,8 @@ This section provides information regarding the connector series used. The conne
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="2">Header</td>
-    <td colspan="2">Receptacle</td>
+    <td rowspan="2"><b>Header</b></td>
+    <td colspan="2"><b>Receptacle</b></td>
   </tr>
   <tr>
     <td>FX8C-60S-SV</td>

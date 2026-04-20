@@ -23,9 +23,9 @@ Logo 1 is designed to be on documentation for any device or system that is direc
 
 ### Downloads
 
-[PNG 200x250](/assets/images/pq60_stand.png){: .btn .btn-purple }
-[SVG](/assets/images/pq60_stand.svg){: .btn .btn-blue }
-[KiCad Symbol](#0){: .btn .btn-green }
+[PNG 200x250](/assets/images/pq60_stand.png){: .btn .btn-purple download }
+[SVG](/assets/images/pq60_stand.svg){: .btn .btn-blue download }
+[KiCad Symbol](#0){: .btn .btn-green download }
 
 ## Logo 2 — "PQ60 Compatible"
 
@@ -37,6 +37,6 @@ Logo 2 is designed for documentation that represents devices or systems that tak
 
 ### Downloads
 
-[PNG 200x250](/assets/images/pq60_comp.png){: .btn .btn-purple }
-[SVG](/assets/images/pq60_comp.svg){: .btn .btn-blue }
-[KiCad Symbol](#0){: .btn .btn-green }
+[PNG 200x250](/assets/images/pq60_comp.png){: .btn .btn-purple download }
+[SVG](/assets/images/pq60_comp.svg){: .btn .btn-blue download }
+[KiCad Symbol](#0){: .btn .btn-green download }
