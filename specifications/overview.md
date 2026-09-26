@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview
+title: Standard Overview
 permalink: /spec/overview
 nav_order: 1
 parent: Specifications

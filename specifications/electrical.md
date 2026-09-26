@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pin-out and Electrical Details
+title: Pin-out & Electrical Details
 permalink: /spec/electrical
 nav_order: 3
 parent: Specifications

@@ -19,4 +19,6 @@ PocketQubes (PQs) are 5cm×5cm×5cm size pico-satellites. The working principles
 
 This site represents an electrical standard, the PQ60 Standard. This standard describes a common electrical interface between boards within a PQ structure. It is designed to complement the PQ mechanical standard.
 
+Latest revision of this standard is Version 1.1 published on 03/03/2015. Also available in [PDF format](/archive/PQ60StandardRev1_1.pdf) (archived copy, original hosted on *pq60.net* until 2020).
+
 Browse the sidebar for more information.
